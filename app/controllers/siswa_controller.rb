@@ -1,0 +1,2 @@
+class SiswaController < ApplicationController
+end

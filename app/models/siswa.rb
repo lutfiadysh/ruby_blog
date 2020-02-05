@@ -1,0 +1,2 @@
+class Siswa < ApplicationRecord
+end
